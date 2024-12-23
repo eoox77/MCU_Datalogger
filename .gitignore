@@ -1,0 +1,5 @@
+fp-info-cache
+MCU datalogger-backups/*
+MCUdataloggerGerber/*
+*.lck
+lib_backups/
