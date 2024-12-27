@@ -3,3 +3,5 @@ MCU datalogger-backups/*
 MCUdataloggerGerber/*
 *.lck
 lib_backups/
+2layer_Gerbers/
+4layer_Gerbers/
